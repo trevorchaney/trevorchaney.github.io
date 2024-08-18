@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Trevor Chaney
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Trevor
+last_name: Chaney
 
 # Status emoji
 status:
@@ -17,27 +14,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Sr. Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Main Memories
+    url: https://www.mainmemories.com
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:trevorchaney@tlc.is'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
   - icon: brands/orcid
     url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
